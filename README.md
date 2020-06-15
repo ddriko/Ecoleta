@@ -6,7 +6,7 @@
     <img src="https://camo.githubusercontent.com/087a09f1bdbcd1cdd29cc43cec817fe7818aeb17/68747470733a2f2f692e6962622e636f2f6653346b37344c2f43617074757261722e706e67">
 </h1>
 
- ## [📋]  Sobre 
+ ## .📋  Sobre 
 
 O projeto <i>**Ecoleta**</i> é uma plataforma online criada com o intuito de conectar pessoas aos pontos de coleta de materiais reciclaveis especificos de sua cidade.
 
