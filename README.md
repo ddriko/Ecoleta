@@ -28,7 +28,7 @@ O Ecoleta é uma plataforma simples que possibilita ao usuario as seguintes aç�
 
 ---
 
-### ⚙🔧 
+## ⚙🔧 
 Ferramentas
 
 A platafoma foi criado com o [Visual Studio Code](https://code.visualstudio.com) utilizando as seguintes tecnologias :
